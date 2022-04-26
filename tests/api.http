@@ -1,0 +1,36 @@
+###
+POST http://localhost:8080/v1/users/register
+Content-Type: application/json
+
+{
+    "username": "QuytP99-4@gmail.com",
+    "password": "quytpPass"
+}
+
+###
+POST http://localhost:8080/v1/users/login
+Content-Type: application/json
+
+{
+    "username": "QuytP99-4@gmail.com",
+    "password": "quytpPass"
+}
+
+###
+POST http://localhost:8080/v1/users/list
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MjY3YWUwYmFmOTVkZDcxMjIwZGM2OTEiLCJpYXQiOjE2NTA5NjcyMTksImV4cCI6MTY1MDk2NzgxOX0.Be4mA1RY26F_gTysdYTy1QdcE7Une-IVoHK6-oBiucc
+
+{
+    "search": "",
+    "page": 1,
+    "offset": 10
+}
+
+###
+DELETE http://localhost:8080/v1/users/logout
+Content-Type: application/json
+
+{
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MjY3YWUwYmFmOTVkZDcxMjIwZGM2OTEiLCJpYXQiOjE2NTA5NjcyMTksImV4cCI6MTY4MjUyNDgxOX0.Yw9F9LEQJUIrEiWnPd0vsx8HX5epUtdOlCzXoptpR8M"
+}

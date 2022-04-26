@@ -1,0 +1,47 @@
+[2022-04-26 15:17:30] [[31merror[39m] /v1/users/register ----- POST ----- QuytP99-1@gmail.com is already exist
+[2022-04-26 15:18:05] [[32minfo[39m] /v1/users/register ----- POST ----- QuytP99-1@gmail.com is already exist
+[2022-04-26 15:18:17] [[32minfo[39m] /register ----- POST ----- Success
+[2022-04-26 15:19:50] [[32minfo[39m] /v1/users/registers ----- POST ----- Api Not Found
+[2022-04-26 15:19:50] [[32minfo[39m] /v1/users/registers ----- POST ----- Not Found
+[2022-04-26 15:27:18] [[32minfo[39m] /v1/users/login ----- POST ----- User.isValidPassword is not a function
+[2022-04-26 15:27:27] [[32minfo[39m] /v1/users/login ----- POST ----- User.isValidPassword is not a function
+[2022-04-26 15:27:58] [[32minfo[39m] /v1/users/login ----- POST ----- User.isCheckPassword is not a function
+[2022-04-26 15:28:33] [[32minfo[39m] /v1/users/login ----- POST ----- Unauthorized
+[2022-04-26 15:28:48] [[32minfo[39m] /v1/users/login ----- POST ----- Unauthorized
+[2022-04-26 15:29:15] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:30:11] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:31:11] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:31:28] [[32minfo[39m] /register ----- POST ----- Success
+[2022-04-26 15:31:36] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:31:39] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:31:40] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:31:40] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:31:40] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:31:40] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:31:41] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:32:11] [[32minfo[39m] /register ----- POST ----- Success
+[2022-04-26 15:32:32] [[32minfo[39m] /v1/users/login ----- POST ----- Password Not Correct
+[2022-04-26 15:35:05] [[32minfo[39m] /login ----- POST ----- Success
+[2022-04-26 15:52:08] [[32minfo[39m] /v1/users/list ----- POST ----- Api Not Found
+[2022-04-26 15:52:08] [[32minfo[39m] /v1/users/list ----- POST ----- Not Found
+[2022-04-26 15:53:23] [[32minfo[39m] /v1/users/list ----- POST ----- userGetListSchema is not a function
+[2022-04-26 15:54:20] [[32minfo[39m] /v1/users/list ----- POST ----- "search" is not allowed
+[2022-04-26 15:54:48] [[32minfo[39m] /v1/users/list ----- POST ----- "search" is not allowed to be empty
+[2022-04-26 15:55:15] [[32minfo[39m] /v1/users/list ----- POST ----- "search" is not allowed to be empty
+[2022-04-26 16:49:22] [[32minfo[39m] /login ----- POST ----- Success
+[2022-04-26 16:54:36] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 16:55:24] [[32minfo[39m] /login ----- POST ----- Success
+[2022-04-26 16:55:33] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 16:55:38] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 16:55:39] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 16:55:39] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 16:55:39] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 16:56:02] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 16:56:42] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 16:57:01] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 16:57:40] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 16:58:25] [[32minfo[39m] /login ----- POST ----- Success
+[2022-04-26 17:00:19] [[32minfo[39m] /login ----- POST ----- Success
+[2022-04-26 17:00:49] [[32minfo[39m] /v1/users/list ----- POST ----- Unauthorized
+[2022-04-26 17:03:53] [[32minfo[39m] /v1/users/logout ----- DELETE ----- Unauthorized
+[2022-04-26 17:04:08] [[32minfo[39m] /logout ----- DELETE ----- Success
